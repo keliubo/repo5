@@ -34,5 +34,6 @@ public class Test {
         m.put("code_url", mapResult.get("code_url"));
         m.put("total_fee",money+"");
         m.put("out_trade_no",orderId);
+        System.out.println("提交");
     }
 }
