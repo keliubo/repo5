@@ -27,6 +27,7 @@ public class Config extends WXPayConfig {
 
             public DomainInfo getDomain(WXPayConfig wxPayConfig) {
                 return new DomainInfo("api.mch.weixin.qq.com",true);
+
             }
         };
     }
