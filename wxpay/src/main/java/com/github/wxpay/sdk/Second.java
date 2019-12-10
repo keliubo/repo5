@@ -10,4 +10,15 @@ public class Second {
     public static void main(String[] args) {
         System.out.println("div");
     }
+
+    /**
+     *
+     * @param
+     * @return void
+     * @author keliubo
+     * @date 2019/12/10
+     */
+    public void second(){
+
+    }
 }
